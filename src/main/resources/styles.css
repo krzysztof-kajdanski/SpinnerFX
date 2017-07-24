@@ -1,0 +1,13 @@
+.spark-spinner .spinning-arc {
+    -fx-stroke: red;
+}
+
+.spark-spinner .percent-text {
+    -fx-stroke: black;
+    -fx-fill: black;
+    -fx-font-size: 12;
+}
+
+.spark-spinner .background-arc {
+    -fx-stroke: white;
+}
